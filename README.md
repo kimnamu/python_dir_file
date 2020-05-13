@@ -1,5 +1,7 @@
 ## 1. os library
+```python
 import os
+```
 
 ### 1.1 Return the curruent path
 ```python
